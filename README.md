@@ -1,1 +1,3 @@
-# helloGit
+# Hello git
+## Credits
+### Etc
